@@ -1,0 +1,9 @@
+1--> Start a Blank Process 
+
+2--> Drag and Drop a Sequence Activity
+
+3--> Drag and drop a Message Box Activity
+
+4--> Type anything like this - “Hello! This is my first Practical”
+
+

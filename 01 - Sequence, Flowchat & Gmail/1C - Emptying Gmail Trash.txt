@@ -1,0 +1,9 @@
+1--> Drag and drop “Sequence” activity
+
+2--> Open Gmail Account
+
+3--> Click on “App/ Web Recorder” Icon
+
+4--> Click on the “Bin”, then click on “Empty Bin”
+
+5--> Click on Yes to Confirm the Empty Bin action

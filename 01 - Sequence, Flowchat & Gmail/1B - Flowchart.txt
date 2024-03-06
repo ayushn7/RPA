@@ -1,0 +1,9 @@
+1--> Add a Flowchart from the Activities panel
+
+2--> Take two Input dialog activities
+
+3--> Create the variables x and y to save the values
+
+4--> Next, add a Message box activity and add both the variable
+
+5--> Run
